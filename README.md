@@ -1,6 +1,6 @@
 -Bom,sobre o desafio eu realmente me dediquei uma semana a realizá-lo e fiz tudo o que consegui nesse tempo.Na parte da API eu realmente só não consegui enviar imagens ao banco de dados,mas de resto consegui.
 
-- Sobre o bônus eu tentei usar esse tempo para estudar docker e docker compose,pois não conhecia a tecnológia, e não consegui terminar a tempo por isso nem coloquei os arquivos no repositório que estava utilizando para testar.Os teste unitários também nem cheguei a tocar por conta do estudo do docker.
+Sobre o bônus eu tentei usar esse tempo para estudar docker e docker compose,pois não conhecia a tecnológia, e não consegui terminar a tempo por isso nem coloquei os arquivos no repositório que estava utilizando para testar.Os teste unitários também nem cheguei a tocar por conta do estudo do docker.
 
 
 --- O projeto
