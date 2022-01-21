@@ -13,11 +13,6 @@ class Item(Base):
     texto4 = Column(Text)
     texto5 = Column(Text)
     texto6 = Column(Text)
-    
-
-    
-    def __repr__(self):
-        return f"<livro autor={self.autor} preco={self.professor}>"
 
 
 Base.metadata.create_all(engine)
